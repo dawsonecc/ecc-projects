@@ -1,1 +1,0 @@
-A repository of all project sketches, documentation, and event resources for the Electronics & Computing Club's Build & Code: Arduino Workshop!
