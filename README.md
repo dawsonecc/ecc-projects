@@ -10,7 +10,6 @@ The goal is to provide a central place where visitors can discover and access th
 
 ### Build & Code: Arduino Workshop (W26)
 
-Repository:  
-https://github.com/dawsonecc/arduino-workshop-W26
+Repository: https://github.com/dawsonecc/arduino-workshop-W26
 
 This repository contains the material developed for ECC’s **Build & Code: Arduino Workshop**, an event designed to introduce participants to Arduino programming and basic electronics.
