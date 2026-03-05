@@ -14,12 +14,3 @@ Repository:
 https://github.com/dawsonecc/arduino-workshop-W26
 
 This repository contains the material developed for ECC’s **Build & Code: Arduino Workshop**, an event designed to introduce participants to Arduino programming and basic electronics.
-
-The repository includes:
-
-1. 7 Arduino projects of varying difficulty levels  
-2. Circuit diagrams and build instructions  
-3. Example code for each project  
-4. Documentation explaining breadboarding and Arduino programming basics  
-
-While these projects were created for the workshop event, they can also be used as a **self-guided introduction to Arduino and embedded systems**.
